@@ -1,0 +1,153 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+ body {
+     margin: 0;
+     font-family: 'Roboto', sans-serif;
+ }
+
+ .navbar {
+     background-color: white;
+     overflow: hidden;
+     width: 100%;
+ }
+
+ a {
+     text-decoration: none;
+     color: black;
+ }
+
+ .navbar a {
+     float: right;
+
+     color: black;
+     text-align: right;
+     padding: 25px 30px;
+
+     font-size: 14px;
+
+ }
+
+ .navbar a:hover {
+     background-color: rgba(9, 9, 48, 0.897);
+     color: white;
+     transition: 0.3s;
+ }
+
+ .emp {
+     padding: 20px;
+     border: 1px solid black;
+     color: rgba(9, 9, 48, 0.897);
+     display: flex;
+
+ }
+
+ .work {
+     margin-top: 2%;
+ }
+
+ .rm {
+     padding: 55px;
+     border: 2px;
+     margin: 30px;
+ }
+
+ .rm {
+     display: flex;
+     justify-content: center;
+     padding: 60px;
+     margin: 10px auto 0 auto;
+ }
+
+ .xyz {
+     padding: 55px;
+     border: 2px;
+     margin: 30px;
+ }
+
+ .xyz {
+     background-color: rgb(170, 123, 46);
+
+     padding: 60px;
+     margin: 10px auto 0 auto;
+ }
+
+ .button {
+     padding: 10px;
+     border-radius: 2px;
+     background-color: rgba(9, 9, 48, 0.897);
+     ;
+     color: white;
+     text-decoration: none;
+ }
+
+ .button:hover {
+     opacity: 40%;
+ }
+
+ .navbar2 {
+     background-color: white;
+     overflow: hidden;
+     width: 100%;
+ }
+
+ .navbar2 a {
+     float: left;
+
+     color: rgb(31, 40, 78);
+     text-align: right;
+     padding: 25px 30px;
+
+     font-size: 14px;
+
+ }
+
+ .navbar2 a:hover {
+     background-color: rgba(9, 9, 48, 0.897);
+     color: white;
+     transition: 0.3s;
+ }
+
+ .rkm {
+     display: flex;
+     padding: 20px;
+     margin: 15px;
+ }
+
+ .pr {
+
+     display: flex;
+
+     padding: 20px;
+     margin: 15px;
+     border-radius: 5px;
+ }
+
+ .a {
+     padding: 15px;
+     margin: 15px;
+ }
+
+ .b {
+     padding: 15px;
+     margin: 15px;
+ }
+
+ .c {
+     padding: 15px;
+     margin: 15px;
+ }
+
+ .d {
+     padding: 15px;
+     margin: 15px;
+ }
+
+ .e {
+     padding: 15px;
+     margin: 15px;
+ }
+
+ .f {
+     padding: 15px;
+     margin: 15px;
+ }
